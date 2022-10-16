@@ -5,3 +5,7 @@ A repository containing various ChordPro document. Run these files using the lat
 To request an addition, please open an issue.
 
 To contribute, please open a pull request.
+
+### Table of Contents
+1. [Touch of Heaven / Alabaster Heart](https://github.com/codepip2007/ChordPro-Documents/blob/main/Touch_Of_Heaven__Alabaster_Heart.cho)
+2. [I Speak Jesus](https://github.com/codepip2007/ChordPro-Documents/blob/main/I_Speak_Jesus.cho)
